@@ -1,0 +1,95 @@
+season,name,age,gender,result,days_lasted,medically_evacuated,reason_tapped_out,profession
+1,Alan Kay,40,Male,1,56,False,,Corrections Officer
+1,Sam Larson,22,Male,2,55,False,Lost the mind game,Outdoor Gear Retailer
+1,Mitch Mitchell,34,Male,3,43,False,Realized he should actually be around for his mother's cancer,Butcher
+1,Lucas Miller,32,Male,4,39,False,Felt content with what he had done,Survivalist and Wildlife Therapist/Natural Healing
+1,Dustin Feher,37,Male,5,8,False,Fear of storm,Carpenter
+1,Brant McGee,44,Male,6,6,False,Consuming salt water,US Army Guard and Former US Coast Guard
+1,Wayne Russell,46,Male,7,4,False,Fear of bears,Research Assistant
+1,Joe Robinet,24,Male,8,4,False,Loss of ferro rod,Carpenter
+1,Chris Weatherman,41,Male,9,1,False,Fear of wolves,Author
+1,Josh Chavez,31,Male,10,0,False,Fear of bears,Law Enforcement
+2,David McIntyre,50,Male,1,66,False,,Writer and Former Missionary
+2,Larry Roberts,44,Male,2,64,False,Hunger and mental breakdown,Electrician
+2,Jose Martinez Amoedo,45,Male,3,59,False,Fell off kayak into river,Aboriginal Skills Instructor
+2,Nicole Apelian,45,Female,4,57,False,Missed her kids,Anthropologist
+2,Justin Vititoe,35,Male,5,35,False,Had nothing left to accomplish,Former US Sniper
+2,Randy Champagne,28,Male,6,21,False,Didn't like being alone,Survival Instructor
+2,Mike Lowe,55,Male,7,21,False,Missed his wife,Survivial Instructor
+2,Tracy Wilson,44,Female,8,8,False,Afraid of bears,Law Enforcement and Former Air Force
+2,Mary Kate Green,36,Female,9,7,True,Split tendon with axe,Former Wildland Firefighter
+2,Desmond White,37,Male,10,6,False,Bear scare,Former US Army
+3,Zachary Fowler,36,Male,1,87,False,,Boat builder
+3,Carleigh Fairchild,28,Female,2,86,True,BMI too low,Homesteader & Carpenter
+3,Megan Hanacek,41,Female,3,78,False,"2 broken teeth (molars), jaw pain",Biologist & Forrester
+3,Dave Nessia,49,Male,4,73,True,Systolic pressure too low,Bushcraft Instructor
+3,Callie North,27,Female,5,72,False,Felt like journey was complete,Herbalist
+3,Greg Ovens,53,Male,6,51,False,Hypothermia,Drywaller
+3,Dan Wowak,34,Male,7,51,False,Missed family,Trapper
+3,Britt Ahart,40,Male,8,35,False,Missed family,Accountant
+3,Zachary Gault,22,Male,9,8,True,Cut arm with axe,Wilderness Skills Instructor
+3,Jim Shields,37,Male,10,2,False,Regretted leaving family,High School Teacher
+4,Jim Baird,35,Male,1,75,False,,Freelance Writer
+4,Ted Baird,32,Male,1,75,False,,Adventure Videographer
+4,Pete Brockdorff,61,Male,2,74,False,Jointly decided the cost of the game wasn't worth it,Retired Shipping Driver
+4,Sam Brockdorff,26,Male,2,74,False,Jointly decided the cost of the game wasn't worth it,Environmental Scientist
+4,Brooke Whipple,45,Female,3,49,False,Felt too exhausted and drained to go on,Outdoor Educator
+4,Dave Whipple,40,Male,3,49,False,Felt too exhausted and drained to go on,Builder
+4,Chris Wilkes,44,Male,4,14,False,Missed family and felt guilty for having left them behind,Psychotherapist
+4,Brody Wilkes,33,Male,4,14,False,Missed family and felt guilty for having left them behind,Industrial Project Manager
+4,Shannon Bosdell,44,Male,5,5,True,Lower back injury,Fisherman
+4,Jesse Bosdell,31,Male,5,5,True,Lower back injury,Retired Green Beret
+4,Alex Ribar,48,Male,6,2,False,Were not mentally prepared,Construction Foreman
+4,Logan Ribar,19,Male,6,2,False,Were not mentally prepared,Equipment Operator
+4,Brad Richardson,23,Male,7,1,True,Injured ankle,Blacksmith
+4,Josh Richardson,19,Male,7,1,True,Injured ankle,Blacksmith
+5,Sam Larson,24,Male,1,60,False,,Wilderness Skills Instructor
+5,Britt Ahart,41,Male,2,56,False,Missed his family,Accountant
+5,Larry Roberts,46,Male,3,41,False,Missed his family,Electrician
+5,Dave Nessia,50,Male,4,36,False,Just felt right,Bushcraft Instructor
+5,Randy Champagne,31,Male,5,35,False,Lonely,Wilderness Skills Instructor
+5,Brooke Whipple,45,Female,6,28,False,Lonely,Outdoor Educator
+5,Jesse Bosdell,32,Male,7,24,True,"Constipation, possible fecal impaction",Retired Green Bere
+5,Nicole Apelian,47,Female,8,9,True,MS attack,Wilderness Living Skills Instructor
+5,Brad Richardson,24,Male,9,7,False,Had no food the whole time,Blacksmith
+5,Carleigh Fairchild,30,Female,10,5,True,Fish hook in hand,Carpenter
+6,Jordan Jonas,35,Male,1,77,False,,Construction
+6,Woniya Thibeault,42,Female,2,73,False,Starvation,Ancestral Skills Teacher
+6,Nathan Donnelly,39,Male,3,72,False,Shelter fire,Disaster Preparedness Instructor
+6,Barry Karcher,39,Male,4,69,True,Lost too much weight,Self Defense Instructor
+6,Nikki van Schyndel,44,Female,5,52,True,"Low BMI, lost too much weight",Wilderness Guide
+6,Michelle Wohlberg,31,Female,6,48,True,"Constipation, possible impacted bowel",Homesteader
+6,Brady Nicholls,36,Male,7,32,False,Missed his family,SERE Specialist
+6,Ray Livingston,43,Male,8,19,False,Nothing left to give,Search and Rescue K9 Handler
+6,Donny Dust,38,Male,9,8,True,Food poisoning,Primitive Technology Instructor
+6,Tim Backus,55,Male,10,4,True,Broken ankle,Hunting Guide
+7,Roland Welker,47,Male,1,100,False,,Hunting Guide
+7,Callie Russell,31,Female,2,89,True,Frostbite of the toes,Ancestral Living Skills Instructor
+7,Kielyn Marrone,33,Female,3,80,False,Starvation,Winter Wilderness Expedition Operator
+7,Amos Rodriguez,40,Male,4,58,False,Starvation,Primitive Skills Instructor
+7,Mark D'Ambrosio,33,Male,5,44,False,Trichinosis,Sniper & Survival Skills Instructor
+7,Joe Nicholas,31,Male,6,44,False,Starvation,Biologist
+7,Joel Van Der Loon,34,Male,7,40,False,Starvation,Primitive Skills School Owner
+7,Keith Syers,45,Male,8,22,True,"Food poisoning, infection",Homesteader
+7,Correy Hawk,30,Male,9,12,True,"Torn Meniscus, partially torn MCL",Traditional Bowyer
+7,Shawn Helton,43,Male,10,10,False,Lost fire starter,Tool Maker
+8,Clay Hayes,40,Male,1,74,False,,Professional Bowyer & Hunter
+8,Biko Wright,29,Male,2,73,False,"Starvation, heart palpitations",Construction Laborer/Lead Singer
+8,Theresa Emmerich Kamper,40,Female,3,69,True,"Low BMI, lost too much weight",Prehistoric Leather Specialist
+8,Colter Barnes,36,Male,4,67,True,"Low BMI, lost too much weight",Homesteader & Educator
+8,Rose Anna Moore,43,Female,5,37,True,"Frostbite, malnutrition",Retail Sporting Goods Owner
+8,Nate Weber,47,Male,6,24,False,Food poisoning,Retired Military/Homesteader
+8,Matt Corradino,42,Male,7,22,False,"Missed his family, starvation",Wilderness Survival Instructor
+8,Michelle Finn,46,Female,8,21,False,Starvation,Educational Consultant
+8,Jordon Bell,43,Male,9,19,False,Missed his family,Carpenter
+8,Tim Madsen,48,Male,10,6,False,"Anxiety attack, chest pains",Oil Rig Roughneck
+9,Juan Pablo Quinonez,30,Male,1,78,False,,Outdoor Professional
+9,Karie Lee Knoke,57,Female,2,75,False,"Starvation, Exhaustion",Wilderness/Primitive Skills Instructor
+9,Teimojin Tan,31,Male,3,63,False,Missed his family,Physician
+9,Adam Riley,36,Male,4,52,False,Starvation,"Alpaca Shearer, Treehouse builder"
+9,Jessie Krebs,49,Female,5,46,True,Stomach inflammation,Wilderness Survival Instructor
+9,Tom Garstang,35,Male,6,43,False,"Fell, injured back and knee","Prescribed Fire Practitioner, Regenerative Agriculturalist, Leatherworker"
+9,Terry Burns,30,Male,7,42,True,"Low BMI (lost too much weight), parastic infection",Commercial Fisherman
+9,Benki Hill,46,Male,8,27,True,Gardia infection,Hunting and Packgoat Guide
+9,Igor Limansky,39,Male,9,20,False,Heart palpitations,Community Leadership
+9,Jacques Turcotte,23,Male,10,15,False,Missed his family,Wilderness Expedition Guide
