@@ -18,7 +18,7 @@ Cleaning
 - Fill na
 - Nunique
 
-Tranformation
+Transformation
 - Merge
 - Groupby
 - Sort values
