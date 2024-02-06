@@ -54,9 +54,9 @@ The 4 dataframes:
 # Steps
 For the project, the dataframes needed to be cleaned and tranformed to make the best use of them
 
-- df_armed: We merged the cleaned survivalist dataframe with the clean loadout dataframe on name and season to make our initial analysis. 
+- df_armed: Merged the cleaned survivalist dataframe with the clean loadout dataframe on name and season to make our initial analysis. 
 
-- analysis_df_clean: We used one hot encoding to transform each item in a row into its own column to make a statistical analysis for each item the contestants took using (mean, median, standard deviation and correlation)
+- analysis_df_clean: Utilised one hot encoding to transform each item in a row into its own column to make a statistical analysis for each item the contestants took using (mean, median, standard deviation and correlation)
 
 - To get a better insight into constestant background and survival rate, we mapped all the professions into categories and plotted their survival rate per category to see which would benefit the most.
 
